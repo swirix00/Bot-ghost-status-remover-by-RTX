@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["clrp commnads","☁️💫","hraje clrp"];
+const statusMessages = ["🤖CLRP COMMANDS","☁️💫","CODE:Cloudrp"];
 
 
 let currentIndex = 0;
